@@ -10,7 +10,7 @@
 The Inventory Management System is an innovative solution designed to optimize inventory levels, reduce costs, and enhance customer satisfaction. By leveraging advanced technologies such as JavaScript, CSS, TypeScript, and SQL databases, this system provides real-time tracking, automated reordering, and data analytics for demand forecasting. Our solution addresses common challenges in inventory management, streamlining processes and providing businesses with a competitive edge.
 
 ## Link to Video Explanation
-[Watch the Video Explanation]()
+[Watch the Video Explanation](https://github.com/AkshanshPundir/Mini-project/blob/main/Video)
 
 ## Technologies Used
 - JavaScript
